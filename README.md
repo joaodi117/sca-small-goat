@@ -1,6 +1,4 @@
 # Sca Goat Small
-___________________
-
 This repository contains deliberately insecure manifest files with vulnerable 3rd party packages. It is designed for security testing
 only.
 
@@ -17,7 +15,7 @@ Please make sure you do not make any harm.***
 
 # Scan Report
 
-### Direct pacakges (11)
+### Direct packages (11)
 Vulnerabilites | Quantity
 ---------------|---------------
 **High**| 29
